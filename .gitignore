@@ -1,0 +1,15 @@
+# Visual Studio 관련 파일 및 디렉토리 무시
+.vs/
+*.opendb
+*.user
+*.suo
+*.exe
+*.obj
+*.log
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.vcxproj.*
